@@ -1,6 +1,7 @@
 # pvfopid
 [![View Padula-Visioli tuning algorithm for a FOPID controller on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/73396-padula-visioli-tuning-algorithm-for-a-fopid-controller)
 
+![alt text](./scheme.PNG)
 
 Padula-Visioli tuning algorithm for a FOPID controller in CLS system with a first order plus dead time plant (FOPDT)
 
